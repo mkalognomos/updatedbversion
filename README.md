@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/mkalognomos/updatedbversion/blob/main/versions.jpg?raw=true)
+
+
 # DB-Version-Updater
 
 This project automates the process of updating the database version in your .Net project. It performs the following steps:
