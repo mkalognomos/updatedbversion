@@ -1,4 +1,4 @@
-# Auto-DB-Version-Update
+# DB-Version-Updater
 
 This project automates the process of updating the database version in your .Net project. It performs the following steps:
 
